@@ -1,0 +1,25 @@
+body {
+  width: 70%;
+  margin: 0 auto; }
+
+h1 {
+  font-family: 'Comic Sans';
+  font-size: 25px;
+  color: red;
+  font-weight: 700;
+  font-style: italic; }
+
+.message {
+  border: 1px solid green;
+  padding: 13px; }
+
+.error {
+  border: 1px solid red; }
+
+div:hover {
+  background-color: black; }
+
+div a {
+  color: red; }
+  div a:hover {
+    color: pink; }
